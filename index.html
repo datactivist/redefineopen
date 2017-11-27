@@ -36,7 +36,7 @@ class:center, middle
 ---
 class: center, middle
 
-Ces slides en ligne : www.datactivi.st/rededefineopen
+Ces slides en ligne : [datactivi.st/rededefineopen](http://datactivi.st/redefineopen)
 
 Les contenus créés par Datactivist sont placés sous [licence Creative Commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
 
@@ -47,7 +47,7 @@ Les contenus créés par Datactivist sont placés sous [licence Creative Commons
 .pull-left[
 Société coopérative et participative (SCOP) créée en novembre 2016
 
-🎯Notre mission : ouvrir les données et de les rendre utiles et utilisées. 
+🎯Notre mission : ouvrir les données et les rendre utiles et utilisées. 
 
 💼3 grands types de missions : 
 - Conseil : accompagnement dans l'ouverture et la réutilisation de données 
@@ -131,7 +131,7 @@ class: inverse, center, middle
 .reduite2[![](img/courbe.png)]
 .footnote[Voir [notre formation pour Greenpeace](datactivi.st/formation-greenpeace/index.html#51)]
 ---
-## Ouverture aussi pour les entreprises chargées d'une mission de service public
+## Ouverture aussi pour les entreprises chargées d'une mission de service publique
 ![](img/next.png)
 ---
 class: center, middle
@@ -193,7 +193,7 @@ class: center, middle
 class: inverse, center, middle
 # Merci de votre attention !
 
-.footnote[Me contacter : samuel@datactivi.st]
+.footnote[Me contacter : [samuel@datactivi.st](mailto:samuel@datactivi.st)]
     </textarea>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create({
@@ -201,7 +201,8 @@ class: inverse, center, middle
 "highlightLines": true,
 "countIncrementalSlides": false
 });
-if (window.HTMLWidgets) slideshow.on('showSlide', function (slide) {setTimeout(function() {window.dispatchEvent(new Event('resize'));}, 100)});</script>
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {window.dispatchEvent(new Event('resize'));});
+(function() {var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler"); if (!r) return; s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }"; d.head.appendChild(s);})();</script>
 
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
@@ -215,7 +216,7 @@ MathJax.Hub.Config({
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);

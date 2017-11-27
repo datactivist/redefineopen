@@ -30,7 +30,7 @@ class:center, middle
 ---
 class: center, middle
 
-Ces slides en ligne : www.datactivi.st/rededefineopen
+Ces slides en ligne : [datactivi.st/rededefineopen](http://datactivi.st/redefineopen)
 
 Les contenus créés par Datactivist sont placés sous [licence Creative Commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
 
@@ -41,7 +41,7 @@ Les contenus créés par Datactivist sont placés sous [licence Creative Commons
 .pull-left[
 Société coopérative et participative (SCOP) créée en novembre 2016
 
-🎯Notre mission : ouvrir les données et de les rendre utiles et utilisées. 
+🎯Notre mission : ouvrir les données et les rendre utiles et utilisées. 
 
 💼3 grands types de missions : 
 - Conseil : accompagnement dans l'ouverture et la réutilisation de données 
@@ -187,6 +187,6 @@ class: center, middle
 class: inverse, center, middle
 # Merci de votre attention !
 
-.footnote[Me contacter : samuel@datactivi.st]
+.footnote[Me contacter : [samuel@datactivi.st](mailto:samuel@datactivi.st)]
 
 
