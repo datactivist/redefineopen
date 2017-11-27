@@ -1,0 +1,192 @@
+---
+title: "Quel intérêt les entreprises ont-elles à ouvrir leurs donnnées ?"
+subtitle: "Sommet Redefine Open - Open Data Soft"
+author: "Samuel Goëta"
+date: "27/11/2017"
+output:
+  xaringan::moon_reader:
+    css: [default, xaringan.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class:middle,center, inverse
+# Des entreprises assises sur une mine d'or
+---
+class: middle, center
+
+![](img/goldencorp3.jpg)
+
+---
+class: middle, center
+
+![](./img/goldencorp.png)
+---
+class:center, middle
+![](./img/goldencorp2.png)
+
+---
+class: center, middle
+
+Ces slides en ligne : www.datactivi.st/rededefineopen
+
+Les contenus créés par Datactivist sont placés sous [licence Creative Commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
+
+<img src="./img/Logo_DATACTIVIST_TW.png" height="100px" />
+
+---
+# Datactivist ?
+.pull-left[
+Société coopérative et participative (SCOP) créée en novembre 2016
+
+🎯Notre mission : ouvrir les données et de les rendre utiles et utilisées. 
+
+💼3 grands types de missions : 
+- Conseil : accompagnement dans l'ouverture et la réutilisation de données 
+- Formations : ouverture des données, culture générale des données, introduction à la data science. 
+- Médiation : accompagner la réutilisation de données que ce soit par un public de spécialistes ou de novices.]
+
+.pull-right[
+![](img/sticker.png)
+]
+---
+# Une équipe dédiée à l'ouverture des données
+.pull-left[
+![](./img/equipe.jpg)
+]
+.pull-right[
+
+Nous nous appelons activistes car : 
+- **nous militons pour l’ouverture des données**
+- nous **soutenons les acteurs du changement** 
+- **nous appliquons à nous mêmes les principes** que nous défendons en partageant toutes nos productions sous licence libre.] 
+
+---
+class: inverse, center, middle
+# Sortir de l'open washing
+---
+class:middle, center
+![](img/air.png)
+---
+![](img/airbnb.png)
+---
+![](img/airbnb_gazette.png)
+---
+class: center, middle
+![](img/uber.png)
+---
+class: center, middle
+![](img/uber_faq.png)
+
+---
+![](img/uber_comm.png)
+---
+class: center, middle
+![](img/opendefinition_nc.png)
+---
+![](img/opencorporates.png)
+---
+![](img/opencorporates_bulk.png)
+---
+![](img/bulk.png)
+---
+![](img/rufus.png)
+---
+class: inverse, center, middle
+#Soyons plus ambitieux !
+### Ouvrons vraiment les données, rendons les utiles
+
+---
+class: inverse, center, middle
+
+#Constat : les entreprises n'ont pas de données publiques
+### Elles ne sont pas soumises à une obligation d'ouverture
+
+---
+# Sauf dans le domaine des transports
+
+[![](img/transport.png)](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=7361314F82C97FD5BA2215F6FC66C7D0.tpdila14v_2?idArticle=JORFARTI000030978647&cidTexte=JORFTEXT000030978561&dateTexte=29990101&categorieLien=id)
+---
+# La SNCF a su en faire une opportunité…
+![](img/sncf2.png)
+---
+#…Et batir une communauté
+.reduite[![](img/sncf3.png)]
+
+---
+#Obligations aussi dans le domaine de l'énergie…
+.pull-left[>"Permettre la réutilisation des données détaillées de consommation et de production issues de leur système de comptage d'énergie, dans l'objectif de favoriser notamment le développement d'offres d'énergie, d'usages et de services énergétiques.<br/>
+**Article 23 de la loi pour une république numérique**]
+.pull-right[![](img/decret.png)[Décret d'application](https://www.legifrance.gouv.fr/eli/decret/2017/4/5/ECFC1631045D/jo/texte)]
+---
+# …Qui a permis l'ouverture de données de grande valeur
+.reduite2[![](img/courbe.png)]
+.footnote[Voir [notre formation pour Greenpeace](datactivi.st/formation-greenpeace/index.html#51)]
+---
+## Ouverture aussi pour les entreprises chargées d'une mission de service publique
+![](img/next.png)
+---
+class: center, middle
+![](img/semaes.png)
+---
+class: center, middle
+[![](img/laposte.png)](https://datanova.laposte.fr/explore/?refine.keyword=la-poste&sort=modified&refine.publisher=La+Poste+-+Service+National+de+l%27Adresse)
+---
+class: inverse, center, middle
+# Les entreprises n'ont généralement pas de données publiques
+### Mais elles ont des Données d'Intérêt Général (DIG)
+
+---
+# DIG : un concept qui intéresse l'Etat
+[![](img/dig.png)](https://www.economie.gouv.fr/files/files/PDF/DIG-Rapport-final2015-09.pdf)
+---
+class: inverse, center, middle
+
+# Les entreprises peuvent ouvrir leurs données volontairement
+### Mais pourquoi ouvrir des données d'intérêt général ? 
+---
+class: inverse, center, middle
+# 1. Communiquer : je prouve ce que je dis
+---
+class: center, middle
+![](img/issy.png)
+---
+class: inverse, center, middle
+# 2. Valoriser son travail, recruter les meilleur.e.s
+---
+class: center, middle
+## Danone : un exemple  de données potentiellement d'intérêt général
+.reduite[![](img/danone.png)]
+---
+class: inverse, center, middle
+#3. Améliorer ses données, décloisonner l'entreprise
+---
+![](https://pbs.twimg.com/media/C-6gW6eXgAYmrMu.png)
+---
+class: inverse, center, middle
+#4. Trouver un modèle économique pour l'ouverture des données
+---
+class: center, middle
+![](img/odi.png)
+---
+class: inverse, center, middle
+# Et si on vous aidait à vous lancer ? 
+![](img/odit.png)
+---
+class: center, middle
+![](img/odit1.png)
+---
+class: center, middle
+
+## Plus d'infos : http://datactivi.st/ODit/
+
+## Contactez nous : [hello@datactivi.st](mailto:hello@datactivi.st)
+---
+class: inverse, center, middle
+# Merci de votre attention !
+
+.footnote[Me contacter : samuel@datactivi.st]
+
+
